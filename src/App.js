@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import {Spinner} from 'spin.js';
+
 import logo from './logo.svg';
 import './App.css';
 
